@@ -2,7 +2,8 @@
 
 This project was bootstrapped with React. Fully functional web store using BWP currency.
 
-https://user-images.githubusercontent.com/35075842/106589076-44270c00-6554-11eb-988e-9c946cc1a5f4.jpeg
+
+![image](https://user-images.githubusercontent.com/35075842/106589076-44270c00-6554-11eb-988e-9c946cc1a5f4.jpeg)
 
 ## Available Scripts
 
